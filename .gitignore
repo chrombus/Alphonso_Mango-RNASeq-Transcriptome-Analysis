@@ -1,13 +1,33 @@
-*.bam
-*.sam
-*.fastq
-*.fq
-*.gz
-*.bai
-*.log
-*.tmp
+# R
 .Rhistory
 .RData
-*.out
-*.html
-*.zip
+.Rproj.user
+
+# Linux
+*.swp
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+
+# Large sequencing files
+*.fastq
+*.fastq.gz
+*.fq.gz
+
+# Alignment
+*.sam
+*.bam
+*.bai
+
+# Results
+results/
+
+# Temporary
+tmp/
+temp/
+
+# Logs
+*.log
