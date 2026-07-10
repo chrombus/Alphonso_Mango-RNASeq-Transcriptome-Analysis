@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: Integrative Transcriptomic Analysis of Alphonso Mango Ripening
+authors:
+  - family-names: Khalid
+    given-names: Mohd Hamza
+message: If you use this repository, please cite it.
+license: MIT
